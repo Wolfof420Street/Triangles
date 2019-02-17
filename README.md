@@ -47,6 +47,8 @@ Input 2: 69
 Input 3: 65
 Output Example: The triangle is Scalene
 
+The site also provides links for the user to get more information about the various types of triangles. 
+
 Technologies Used
 The sites structure was developed using HTML.
 The styling used in the website were designed using CSS.
