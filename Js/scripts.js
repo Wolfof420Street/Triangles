@@ -1,3 +1,4 @@
+function result() {
 var confirmation=[];
 confirmation.push(parseFloat(prompt("Enter first side: ")));
   if (isNaN(confirmation[0])=== true){
@@ -28,4 +29,5 @@ confirmation.push(parseFloat(prompt("Enter first side: ")));
         }
       }
     }
+  }
   };

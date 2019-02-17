@@ -1,0 +1,21 @@
+h1 {
+  font-size: 60px ;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-align: center;
+}
+.Introduction {
+  margin: 45px 70px 95px 120px;
+  padding: 45px 70px 95px 100px;
+  border: 50px solid blue ;
+}
+h3 {
+  font-size: 40px ;
+  font-family: sans-serif;
+  text-align: center;
+  float: right;
+  color: blue
+}
+body{
+  background-color: #F5FFFA ;
+}
