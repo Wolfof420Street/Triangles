@@ -1,3 +1,30 @@
+new WOW().init();
+
+var typed=new Typed(`#type`,{
+     strings:[" Triangle Tracker "," An application that allows Users to add triangle measurements and returns the type of triangles "],
+     backSpeed:70,
+     typeSpeed:80,
+     smartBackspace:true,
+     loop: true,
+   })
+   
+
+
+
+
+
+
+
+
+
+
+// Animations init
+new WOW().init();
+
+
+
+
+
 function result() {
 var confirmation=[];
 confirmation.push(parseFloat(prompt("Enter first side: ")));
